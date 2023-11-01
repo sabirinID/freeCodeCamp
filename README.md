@@ -1,5 +1,11 @@
 # freeCodeCamp
 
+<p align="center">
+  <img src="fcc_logo.png" width="1024" height="auto">
+  <br>
+  Image by <a href="https://www.freecodecamp.org/">freeCodeCamp</a>
+</p>
+
 Learn to code — for free. | Build projects. | Earn certifications.
 
 ## Data Analysis with Python
